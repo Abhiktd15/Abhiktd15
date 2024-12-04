@@ -1,7 +1,7 @@
 # Abhiktd15
 <h1 align="center">Hi 👋, I'm Abhishek</h1>
 <h3 align="center">A Full-Stack Developer having expertise in MERN Stack.</h3>
-<img align="right" alt="Coding"  width="500" src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif">
+<img align="right" alt="Coding"  width="500" src="[https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif](https://miro.medium.com/v2/resize:fit:1400/1*fopzpyNMN9GPvAIKdsZdaA.png)">
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Abhiktd15&label=Profile%20views&color=0e75b6&style=flat" alt="Abhiktd15" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/abhishekbh29355" target="blank"><img src="https://img.shields.io/twitter/follow/abhishekbh29355?logo=twitter&style=for-the-badge" alt="abhishekbh29355" /></a> </p>
